@@ -1,2 +1,2 @@
 # test_git
-play with git
+<h1>Este es un repositorio de pruebas</h1>
